@@ -20,10 +20,16 @@ Paper: [https://arxiv.org/pdf/1706.03762](https://arxiv.org/pdf/1706.03762)
 **TinyStories: How Small Can Language Models Be and Still Speak Coherent English?**: A study exploring the minimal size requirements for language models to maintain coherence.  
 Paper: [https://arxiv.org/abs/2305.07759](https://arxiv.org/abs/2305.07759)  
 
+**A Survey of Large Language Models**: An overview of various large language models, their architectures, and performance.  
+Paper: [https://arxiv.org/abs/2206.07682](https://arxiv.org/abs/2206.07682)  
+
 ## Datasets
 
 **FairytaleQA**: A dataset designed for question and answer generation tasks, focusing on fairytale narratives.  
 Repository: [https://github.com/uci-soe/FairytaleQAData](https://github.com/uci-soe/FairytaleQAData)  
+
+**LifeArchitect AI Datasets Table**: A comprehensive table listing various datasets used in AI research.  
+Dataset Table: [https://lifearchitect.ai/datasets-table/](https://lifearchitect.ai/datasets-table/)  
 
 ## Tutorials and Demonstrations
 
@@ -40,4 +46,7 @@ Tutorial: [https://www.tensorflow.org/text/tutorials/word2vec](https://www.tenso
 
 **Mini-R1**: An exploration into building efficient AI models with reduced computational resources.  
 Article: [https://www.philschmid.de/mini-deepseek-r1](https://www.philschmid.de/mini-deepseek-r1)  
+
+**LifeArchitect AI Models Table**: A detailed comparison of various AI models, including parameters, architectures, and training details.  
+Models Table: [https://lifearchitect.ai/models-table/](https://lifearchitect.ai/models-table/)  
 
