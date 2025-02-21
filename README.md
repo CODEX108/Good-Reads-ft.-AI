@@ -53,6 +53,9 @@ https://github.com/microsoft/autogen
 **Tokenizer**: Learn about language model tokenization
 https://platform.openai.com/tokenizer
 
+**TikToken**:
+https://github.com/openai/tiktoken
+
 ## Notable Projects
 
 **Mini-R1**: An exploration into building efficient AI models with reduced computational resources.  
