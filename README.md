@@ -23,6 +23,9 @@ Paper: [https://arxiv.org/abs/2305.07759](https://arxiv.org/abs/2305.07759)
 **A Survey of Large Language Models**: An overview of various large language models, their architectures, and performance.  
 Paper: [https://arxiv.org/abs/2206.07682](https://arxiv.org/abs/2206.07682)  
 
+**Evaluating Tokenizer Performance of Large Language Models Across Official Indian Languages**
+https://arxiv.org/html/2411.12240v2#:~:text=A%20lower%20proportion%20indicates%20better,a%20baseline%20tokenizer%20%5B12%5D%20.
+
 ## Datasets
 
 **FairytaleQA**: A dataset designed for question and answer generation tasks, focusing on fairytale narratives.  
@@ -41,6 +44,9 @@ Tutorial: [https://prvnsmpth.github.io/animated-transformer/](https://prvnsmpth.
 
 **Word2Vec Tutorial**: A comprehensive guide on word embeddings using the Word2Vec model with TensorFlow.  
 Tutorial: [https://www.tensorflow.org/text/tutorials/word2vec](https://www.tensorflow.org/text/tutorials/word2vec)  
+
+**AutoGen Agentic Approach**: A programming framework for agentic AI
+https://github.com/microsoft/autogen
 
 ## Notable Projects
 
