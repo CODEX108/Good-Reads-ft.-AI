@@ -34,6 +34,8 @@ Repository: [https://github.com/uci-soe/FairytaleQAData](https://github.com/uci-
 **LifeArchitect AI Datasets Table**: A comprehensive table listing various datasets used in AI research.  
 Dataset Table: [https://lifearchitect.ai/datasets-table/](https://lifearchitect.ai/datasets-table/)  
 
+**Sentence Piece**: Unsupervised text tokenizer for Neural Network-based text generation.
+Repository: https://github.com/google/sentencepie
 ## Tutorials and Demonstrations
 
 **Sketch-RNN Demo**: An interactive demo showcasing a recurrent neural network that can draw sketches.  
@@ -47,6 +49,9 @@ Tutorial: [https://www.tensorflow.org/text/tutorials/word2vec](https://www.tenso
 
 **AutoGen Agentic Approach**: A programming framework for agentic AI
 https://github.com/microsoft/autogen
+
+**Tokenizer**: Learn about language model tokenization
+https://platform.openai.com/tokenizer
 
 ## Notable Projects
 
