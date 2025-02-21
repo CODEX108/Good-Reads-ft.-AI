@@ -47,12 +47,12 @@ Tutorial: [https://prvnsmpth.github.io/animated-transformer/](https://prvnsmpth.
 **Word2Vec Tutorial**: A comprehensive guide on word embeddings using the Word2Vec model with TensorFlow.  
 Tutorial: [https://www.tensorflow.org/text/tutorials/word2vec](https://www.tensorflow.org/text/tutorials/word2vec)  
 
-**AutoGen Agentic Approach**: A programming framework for agentic AI
+**AutoGen Agentic Approach**: A programming framework for agentic AI.
 Demo: https://github.com/microsoft/autogen
 
-**Tokenizer**: Learn about language model tokenization
-Repository: https://platform.openai.com/tokenizer
-Demo: https://tiktokenizer.vercel.app/
+**Tokenizer**: Learn about language model tokenization.
+Repository: [https://platform.openai.com/tokenizer](https://platform.openai.com/tokenizer)
+Demo: [https://tiktokenizer.vercel.app/](https://tiktokenizer.vercel.app/)
 
 **TikToken**: 
 Repository : https://github.com/openai/tiktoken
