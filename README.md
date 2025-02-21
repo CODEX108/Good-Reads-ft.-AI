@@ -48,13 +48,14 @@ Tutorial: [https://prvnsmpth.github.io/animated-transformer/](https://prvnsmpth.
 Tutorial: [https://www.tensorflow.org/text/tutorials/word2vec](https://www.tensorflow.org/text/tutorials/word2vec)  
 
 **AutoGen Agentic Approach**: A programming framework for agentic AI
-https://github.com/microsoft/autogen
+Demo: https://github.com/microsoft/autogen
 
 **Tokenizer**: Learn about language model tokenization
-https://platform.openai.com/tokenizer
+Repository: https://platform.openai.com/tokenizer
+Demo: https://tiktokenizer.vercel.app/
 
-**TikToken**:
-https://github.com/openai/tiktoken
+**TikToken**: 
+Repository : https://github.com/openai/tiktoken
 
 ## Notable Projects
 
