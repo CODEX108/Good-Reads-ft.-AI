@@ -59,7 +59,10 @@
 - Demo: [TikTokenizer](https://tiktokenizer.vercel.app/)  
 
 **TikToken**: A fast OpenAI tokenizer implementation.  
-- Repository: [GitHub](https://github.com/openai/tiktoken)  
+- Repository: [GitHub](https://github.com/openai/tiktoken)
+
+**Byte Pair Encoding**: Intro to BPE.
+- Article: [Blog](https://sebastianraschka.com/blog/2025/bpe-from-scratch.html)
 
 ## Notable Projects
 
