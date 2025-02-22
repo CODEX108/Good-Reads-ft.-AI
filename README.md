@@ -14,6 +14,9 @@
 
 ## Research Papers
 
+**Bahdanau's translation**: NEURAL MACHINE TRANSLATION
+- Paper: [Arvix](https://arxiv.org/pdf/1409.0473)
+
 **Attention Is All You Need**: The seminal paper introducing the Transformer model, which has become foundational in NLP tasks.  
 - Paper: [ArXiv](https://arxiv.org/pdf/1706.03762)  
 
