@@ -67,6 +67,9 @@
 **Byte Pair Encoding**: Intro to BPE.
 - Article: [Blog](https://sebastianraschka.com/blog/2025/bpe-from-scratch.html)
 
+**This person does not exist**: GANs
+  - Demo: [Link](https://thispersondoesnotexist.com/)
+
 ## Notable Projects
 
 **Mini-R1**: An exploration into building efficient AI models with reduced computational resources.  
