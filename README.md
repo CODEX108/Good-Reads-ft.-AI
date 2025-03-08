@@ -41,7 +41,10 @@
 - Dataset Table: [LifeArchitect](https://lifearchitect.ai/datasets-table/)  
 
 **SentencePiece**: Unsupervised text tokenizer for neural network-based text generation.  
-- Repository: [GitHub](https://github.com/google/sentencepiece)  
+- Repository: [GitHub](https://github.com/google/sentencepiece)
+
+**CIFAR-10 Dataset**: a dataset of 60,000 color images in 10 categories that is used to train machine learning and computer vision algorithms.
+- Info: [CFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Tutorials and Demonstrations
 
@@ -68,7 +71,10 @@
 - Article: [Blog](https://sebastianraschka.com/blog/2025/bpe-from-scratch.html)
 
 **This person does not exist**: GANs
-  - Demo: [Link](https://thispersondoesnotexist.com/)
+ - Demo: [Link](https://thispersondoesnotexist.com/)
+
+**CNN Explainer**:
+- Demo: [CNN](https://poloclub.github.io/cnn-explainer/)
 
 ## Notable Projects
 
