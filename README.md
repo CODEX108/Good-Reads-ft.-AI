@@ -30,7 +30,10 @@
 - Paper: [ArXiv](https://arxiv.org/html/2411.12240v2#:~:text=A%20lower%20proportion%20indicates%20better,a%20baseline%20tokenizer%20%5B12%5D%20.)  
 
 **Deep Residual Learning for Image Recognition**: A breakthrough paper introducing residual networks (ResNets).  
-- Paper: [ArXiv](https://arxiv.org/pdf/1508.07909)  
+- Paper: [ArXiv](https://arxiv.org/pdf/1508.07909)
+
+**Neurl Machine Translation**: building a single neural network that can be jointly tuned to maximize the translation performance.
+- Paper: [ArXiv](https://arxiv.org/pdf/1409.0473)
 
 ## Datasets
 
