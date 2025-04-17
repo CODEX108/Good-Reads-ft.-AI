@@ -14,6 +14,12 @@
 
 ## Research Papers
 
+**Transfusion Model**: By Meta
+- Paper: [PDF](https://scontent.fbom20-1.fna.fbcdn.net/v/t39.2365-6/458329989_1185249415928627_5069958142052187243_n.pdf?_nc_cat=106&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=E0WwNfStWIoQ7kNvwFOdxJI&_nc_oc=Adk4MmAPwVNb3Ji9_0rNIGRPKcK48ZNHaDkafYHJvDnYK6xwPAQCgSB3r6NMWqfq99U&_nc_zt=14&_nc_ht=scontent.fbom20-1.fna&_nc_gid=3umDoEI4ZvX4Of2MHGvzCw&oh=00_AfFpiIt9kyIIlaCCX3lkyKwXjvfBC7PYduqImVEybhHuDg&oe=6806BEE6)
+
+**Diffusion models for image generation**: 
+- Paper: [Arvix](https://arxiv.org/pdf/2006.11239)
+
 **Bahdanau's translation**: NEURAL MACHINE TRANSLATION
 - Paper: [Arvix](https://arxiv.org/pdf/1409.0473)
 
