@@ -79,6 +79,9 @@
 **CNN Explainer**:
 - Demo: [CNN](https://poloclub.github.io/cnn-explainer/)
 
+**Word to Vec**:
+- Blog: [The Illustrated Word2Vec](https://jalammar.github.io/illustrated-word2vec/)
+
 ## Notable Projects
 
 **Mini-R1**: An exploration into building efficient AI models with reduced computational resources.  
