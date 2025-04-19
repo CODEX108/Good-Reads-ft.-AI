@@ -3,20 +3,6 @@
 Welcome to **Good Reads on AI** — a curated collection of essential articles, papers, blogs, and documentation shared by the instructor of **Vizuara's Build LLM & Gen AI** course. This repository is designed to serve as a knowledge hub for anyone diving into the world of Large Language Models (LLMs), Generative AI, and modern machine learning.
 
 These resources were recommended as part of Vizuara’s **"Build LLMs from scratch and Gen AI"** course.
-
----
-
-## 📌 What's Inside?
-
-All resources are categorized for easier access:
-- 📄 Research Papers  
-- 🧠 Blogs & Articles  
-- 🛠️ Tools & Libraries  
-- 📘 Official Docs  
-- 📊 Datasets  
-- 🧪 Tutorials & Demos  
-- 🚀 Notable Projects  
-
 ---
 
 <details>
@@ -32,6 +18,8 @@ All resources are categorized for easier access:
 **Instruct Fine-Tuning Data**: A JSON file containing data for instruction fine-tuning.  
 - Data File: [GitHub](https://github.com/rasbt/LLMs-from-scratch/blob/main/ch07/01_main-chapter-code/instruction-data.json)  
 
+**Hands-On Large Language Models**: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+- Repository: [Github](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 </details>
 
 ---
@@ -78,7 +66,7 @@ All resources are categorized for easier access:
 - **This Person Does Not Exist (GANs)** — [Demo](https://thispersondoesnotexist.com/)  
 - **CNN Explainer** — [Demo](https://poloclub.github.io/cnn-explainer/)  
 - **Word2Vec (Visual Blog)** — [Jalammar Blog](https://jalammar.github.io/illustrated-word2vec/)  
-
+- **Sinusoidal Positional Encodings** — [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 </details>
 
 ---
