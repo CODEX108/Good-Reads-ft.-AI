@@ -97,5 +97,8 @@
 - Article: [Phil Schmid](https://www.philschmid.de/mini-deepseek-r1)  
 
 **LifeArchitect AI Models Table**: A detailed comparison of various AI models, including parameters, architectures, and training details.  
-- Models Table: [LifeArchitect](https://lifearchitect.ai/models-table/)  
+- Models Table: [LifeArchitect](https://lifearchitect.ai/models-table/)
+
+**Docling**: Docling simplifies document processing, parsing diverse formats — including advanced PDF understanding — and providing seamless integrations with the gen AI ecosystem.
+- Docs: [Github](https://github.com/docling-project/docling)
 
