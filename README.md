@@ -2,7 +2,7 @@
 
 Welcome to **Good Reads on AI** — a curated collection of essential articles, papers, blogs, and documentation shared by the instructor of **Vizuara's Build LLM & Gen AI** course. This repository is designed to serve as a knowledge hub for anyone diving into the world of Large Language Models (LLMs), Generative AI, and modern machine learning.
 
-These resources were recommended as part of Vizuara’s **"Build LLMs and Gen AI Systems"** course.
+These resources were recommended as part of Vizuara’s **"Build LLMs from scratch and Gen AI"** course.
 
 ---
 
