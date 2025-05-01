@@ -67,6 +67,7 @@ These resources were recommended as part of Vizuara’s **"Build LLMs from scrat
 - **CNN Explainer** — [Demo](https://poloclub.github.io/cnn-explainer/)  
 - **Word2Vec (Visual Blog)** — [Jalammar Blog](https://jalammar.github.io/illustrated-word2vec/)  
 - **Sinusoidal Positional Encodings** — [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- **Machines of loving grace** — [Blog](https://www.darioamodei.com/essay/machines-of-loving-grace)
 </details>
 
 ---
