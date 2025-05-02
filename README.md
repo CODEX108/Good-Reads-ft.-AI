@@ -36,7 +36,7 @@ These resources were recommended as part of Vizuara’s **"Build LLMs from scrat
 - **A Survey of LLMs** — [ArXiv](https://arxiv.org/abs/2206.07682)  
 - **Tokenizer Performance Across Indian Languages** — [ArXiv](https://arxiv.org/html/2411.12240v2)  
 - **Deep Residual Learning for Image Recognition** — [ArXiv](https://arxiv.org/pdf/1508.07909)  
-
+- **Language Modeling in a Sentence Representation Space** [ArXiv](https://arxiv.org/pdf/2412.08821)
 </details>
 
 ---
