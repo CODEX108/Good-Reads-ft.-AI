@@ -54,6 +54,7 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 
 <details>
 <summary><strong>🧪 Tutorials & Demonstrations</strong></summary>
+  
 - **Vizuara's substack** — [Blog](https://vizuara.substack.com/archive?sort=new)
 - **Sketch-RNN Demo** — [Magenta](https://magenta.tensorflow.org/sketch-rnn-demo)  
 - **Animated Transformer** — [Tutorial](https://prvnsmpth.github.io/animated-transformer/)  
@@ -67,6 +68,7 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 - **Word2Vec (Visual Blog)** — [Jalammar Blog](https://jalammar.github.io/illustrated-word2vec/)  
 - **Sinusoidal Positional Encodings** — [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 - **Machines of loving grace** — [Blog](https://www.darioamodei.com/essay/machines-of-loving-grace)
+  
 </details>
 
 ---
