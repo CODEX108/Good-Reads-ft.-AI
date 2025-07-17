@@ -54,7 +54,7 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 
 <details>
 <summary><strong>🧪 Tutorials & Demonstrations</strong></summary>
-
+- **Vizuara's substack** — [Blog](https://vizuara.substack.com/archive?sort=new)
 - **Sketch-RNN Demo** — [Magenta](https://magenta.tensorflow.org/sketch-rnn-demo)  
 - **Animated Transformer** — [Tutorial](https://prvnsmpth.github.io/animated-transformer/)  
 - **Word2Vec in TensorFlow** — [Tutorial](https://www.tensorflow.org/text/tutorials/word2vec)  
