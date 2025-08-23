@@ -78,6 +78,6 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 
 - **Mini-R1**: Efficient small-scale models — [Phil Schmid](https://www.philschmid.de/mini-deepseek-r1)  
 - **LifeArchitect AI Models Table** — [LifeArchitect](https://lifearchitect.ai/models-table/)  
-- **Docling**: Advanced PDF and document parsing — [GitHub](https://github.com/docling-project/docling)  
+- **Docling**: Advanced PDF and document parsing — [GitHub](https://github.com/docling-project/docling) [Paper](https://arxiv.org/pdf/2408.09869)  
 
 </details>
