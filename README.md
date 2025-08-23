@@ -26,15 +26,15 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 <details>
 <summary><strong>📄 Research Papers</strong></summary>
 
-- **Denoising Diffusion Implicit Models** — [ArXiv](https://arxiv.org/pdf/2010.02502)  
-- **Transfusion Model** (Meta) — [PDF](https://scontent.fbom20-1.fna.fbcdn.net/v/t39.2365-6/458329989_1185249415928627_5069958142052187243_n.pdf)  
-- **Diffusion Models for Image Generation** — [ArXiv](https://arxiv.org/pdf/2006.11239)  
-- **Bahdanau's Neural Machine Translation** — [ArXiv](https://arxiv.org/pdf/1409.0473)  
-- **Attention Is All You Need** — [ArXiv](https://arxiv.org/pdf/1706.03762)  
-- **TinyStories** — [ArXiv](https://arxiv.org/abs/2305.07759)  
-- **A Survey of LLMs** — [ArXiv](https://arxiv.org/abs/2206.07682)  
-- **Tokenizer Performance Across Indian Languages** — [ArXiv](https://arxiv.org/html/2411.12240v2)  
-- **Deep Residual Learning for Image Recognition** — [ArXiv](https://arxiv.org/pdf/1508.07909)  
+- **Denoising Diffusion Implicit Models** - [ArXiv](https://arxiv.org/pdf/2010.02502)  
+- **Transfusion Model** (Meta) - [PDF](https://scontent.fbom20-1.fna.fbcdn.net/v/t39.2365-6/458329989_1185249415928627_5069958142052187243_n.pdf)  
+- **Diffusion Models for Image Generation** - [ArXiv](https://arxiv.org/pdf/2006.11239)  
+- **Bahdanau's Neural Machine Translation** - [ArXiv](https://arxiv.org/pdf/1409.0473)  
+- **Attention Is All You Need** - [ArXiv](https://arxiv.org/pdf/1706.03762)  
+- **TinyStories** - [ArXiv](https://arxiv.org/abs/2305.07759)  
+- **A Survey of LLMs** - [ArXiv](https://arxiv.org/abs/2206.07682)  
+- **Tokenizer Performance Across Indian Languages** - [ArXiv](https://arxiv.org/html/2411.12240v2)  
+- **Deep Residual Learning for Image Recognition** - [ArXiv](https://arxiv.org/pdf/1508.07909)  
 - **Language Modeling in a Sentence Representation Space** [ArXiv](https://arxiv.org/pdf/2412.08821)
 </details>
 
@@ -43,10 +43,10 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 <details>
 <summary><strong>📊 Datasets</strong></summary>
 
-- **FairytaleQA** — [GitHub](https://github.com/uci-soe/FairytaleQAData)  
-- **LifeArchitect AI Datasets Table** — [LifeArchitect](https://lifearchitect.ai/datasets-table/)  
-- **SentencePiece Tokenizer** — [GitHub](https://github.com/google/sentencepiece)  
-- **CIFAR-10** — [Info](https://www.cs.toronto.edu/~kriz/cifar.html)  
+- **FairytaleQA** - [GitHub](https://github.com/uci-soe/FairytaleQAData)  
+- **LifeArchitect AI Datasets Table** - [LifeArchitect](https://lifearchitect.ai/datasets-table/)  
+- **SentencePiece Tokenizer** - [GitHub](https://github.com/google/sentencepiece)  
+- **CIFAR-10** - [Info](https://www.cs.toronto.edu/~kriz/cifar.html)  
 
 </details>
 
@@ -55,19 +55,20 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 <details>
 <summary><strong>🧪 Tutorials & Demonstrations</strong></summary>
   
-- **Vizuara's substack** — [Blog](https://vizuara.substack.com/archive?sort=new)
-- **Sketch-RNN Demo** — [Magenta](https://magenta.tensorflow.org/sketch-rnn-demo)  
-- **Animated Transformer** — [Tutorial](https://prvnsmpth.github.io/animated-transformer/)  
-- **Word2Vec in TensorFlow** — [Tutorial](https://www.tensorflow.org/text/tutorials/word2vec)  
-- **AutoGen (Agentic AI)** — [GitHub](https://github.com/microsoft/autogen)  
-- **Tokenizer Explorer** — [OpenAI Tokenizer](https://platform.openai.com/tokenizer), [TikTokenizer Demo](https://tiktokenizer.vercel.app/)  
-- **TikToken (OpenAI)** — [GitHub](https://github.com/openai/tiktoken)  
-- **Byte Pair Encoding Explained** — [Blog](https://sebastianraschka.com/blog/2025/bpe-from-scratch.html)  
-- **This Person Does Not Exist (GANs)** — [Demo](https://thispersondoesnotexist.com/)  
-- **CNN Explainer** — [Demo](https://poloclub.github.io/cnn-explainer/)  
-- **Word2Vec (Visual Blog)** — [Jalammar Blog](https://jalammar.github.io/illustrated-word2vec/)  
-- **Sinusoidal Positional Encodings** — [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
-- **Machines of loving grace** — [Blog](https://www.darioamodei.com/essay/machines-of-loving-grace)
+- **Vizuara's substack** - [Blog](https://vizuara.substack.com/archive?sort=new)
+- **Sketch-RNN Demo** - [Magenta](https://magenta.tensorflow.org/sketch-rnn-demo)  
+- **Animated Transformer** - [Tutorial](https://prvnsmpth.github.io/animated-transformer/)  
+- **Word2Vec in TensorFlow** - [Tutorial](https://www.tensorflow.org/text/tutorials/word2vec)  
+- **AutoGen (Agentic AI)** - [GitHub](https://github.com/microsoft/autogen)  
+- **Tokenizer Explorer** - [OpenAI Tokenizer](https://platform.openai.com/tokenizer), [TikTokenizer Demo](https://tiktokenizer.vercel.app/)  
+- **TikToken (OpenAI)** - [GitHub](https://github.com/openai/tiktoken)  
+- **Byte Pair Encoding Explained** - [Blog](https://sebastianraschka.com/blog/2025/bpe-from-scratch.html)  
+- **This Person Does Not Exist (GANs)** - [Demo](https://thispersondoesnotexist.com/)  
+- **CNN Explainer** - [Demo](https://poloclub.github.io/cnn-explainer/)  
+- **Word2Vec (Visual Blog)** - [Jalammar Blog](https://jalammar.github.io/illustrated-word2vec/)  
+- **Sinusoidal Positional Encodings** - [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
+- **Machines of loving grace** - [Blog](https://www.darioamodei.com/essay/machines-of-loving-grace)
+- **Vizuara RAG Chunking Strategies** - [Pdf](https://drive.google.com/file/d/1baD2TxYoELhxOP6GVkg_5nAjBYbdnOPT/view?usp=sharing)
   
 </details>
 
@@ -76,8 +77,8 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 <details>
 <summary><strong>🚀 Notable Projects</strong></summary>
 
-- **Mini-R1**: Efficient small-scale models — [Phil Schmid](https://www.philschmid.de/mini-deepseek-r1)  
-- **LifeArchitect AI Models Table** — [LifeArchitect](https://lifearchitect.ai/models-table/)  
-- **Docling**: Advanced PDF and document parsing — [GitHub](https://github.com/docling-project/docling) [Paper](https://arxiv.org/pdf/2408.09869)  
+- **Mini-R1**: Efficient small-scale models - [Phil Schmid](https://www.philschmid.de/mini-deepseek-r1)  
+- **LifeArchitect AI Models Table** - [LifeArchitect](https://lifearchitect.ai/models-table/)  
+- **Docling**: Advanced PDF and document parsing - [GitHub](https://github.com/docling-project/docling) [Paper](https://arxiv.org/pdf/2408.09869)  
 
 </details>
