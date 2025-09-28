@@ -69,7 +69,7 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 - **Sinusoidal Positional Encodings** - [Blog](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/)
 - **Machines of loving grace** - [Blog](https://www.darioamodei.com/essay/machines-of-loving-grace)
 - **Vizuara RAG Chunking Strategies** - [Pdf](https://drive.google.com/file/d/1baD2TxYoELhxOP6GVkg_5nAjBYbdnOPT/view?usp=sharing)
-  
+- **T5** - [Blog](https://blog.codefarm.me/2025/03/25/hands-on-large-language-models/)
 </details>
 
 ---
