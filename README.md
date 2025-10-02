@@ -40,6 +40,7 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [ArXiv](https://arxiv.org/pdf/2305.10601)
 - **The Illusion of Thinking** [Apple](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
 - **RankPrompt: Step-by-Step Comparisons Make Language Models Better Reasoners** [ArXiv](https://arxiv.org/html/2403.12373v1)
+- **In context learning** [Arxiv](https://arxiv.org/pdf/2301.00234)
 </details>
 
 ---
@@ -74,6 +75,7 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 - **Machines of loving grace** - [Blog](https://www.darioamodei.com/essay/machines-of-loving-grace)
 - **Vizuara RAG Chunking Strategies** - [Pdf](https://drive.google.com/file/d/1baD2TxYoELhxOP6GVkg_5nAjBYbdnOPT/view?usp=sharing)
 - **Hands on LLM** - [Blog](https://blog.codefarm.me/2025/03/25/hands-on-large-language-models/)
+- **Prompt Eng VS Context Eng** - [Blog](https://medium.com/data-science-in-your-pocket/context-engineering-vs-prompt-engineering-379e9622e19d)
 </details>
 
 ---
