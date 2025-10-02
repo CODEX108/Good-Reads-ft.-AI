@@ -36,6 +36,10 @@ Welcome to **Good Reads on AI** a curated collection of essential articles, pape
 - **Tokenizer Performance Across Indian Languages** - [ArXiv](https://arxiv.org/html/2411.12240v2)  
 - **Deep Residual Learning for Image Recognition** - [ArXiv](https://arxiv.org/pdf/1508.07909)  
 - **Language Modeling in a Sentence Representation Space** [ArXiv](https://arxiv.org/pdf/2412.08821)
+- **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** [Arxiv](https://arxiv.org/pdf/2201.11903)
+- **Tree of Thoughts: Deliberate Problem Solving with Large Language Models** [ArXiv](https://arxiv.org/pdf/2305.10601)
+- **The Illusion of Thinking** [Apple](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf)
+- **RankPrompt: Step-by-Step Comparisons Make Language Models Better Reasoners** [ArXiv](https://arxiv.org/html/2403.12373v1)
 </details>
 
 ---
